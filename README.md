@@ -3,7 +3,13 @@ It is a Indian e-commerce website.It sells beauty, wellness and fashion products
 https://medium.com/@harapriyasahu505/project-nykaa-25f9846a4bd7
 Live app link: https://exquisite-caramel-d09625.netlify.app/
 
-<img src="https://www.linkpicture.com/q/7557273_1606234814_nyka.jpg"/>
+
+## Snippets :-
+<img src="https://miro.medium.com/max/875/1*0gTc8lbdAByOo3OSXrpNFA.png"/>
+<img src="https://miro.medium.com/max/875/1*wy5LjI5e7bZx9VRyGwR_Nw.png"/>
+<img src="https://miro.medium.com/max/875/1*lfCr5HcLdi8ggarsEN7pvA.png"/>
+<img src="https://miro.medium.com/max/875/1*8PSrvnts-_JjZe4C1PhEZw.png"/>
+<img src="https://miro.medium.com/max/875/1*yDM6ofilXSGeiHV-OLgc5A.png"/>
 
 ## Technologies used :-
 1) HTML
