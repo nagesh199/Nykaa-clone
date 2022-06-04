@@ -25,11 +25,20 @@ Live app link: https://sage-biscochitos-75e444.netlify.app/
 4) Seller Page
 
 
-
 ## Deploy Locally
+
+## Collaborators
+* [Manoj Bhise](https://github.com/manojbhise)
+* [Saraswati Panda](https://github.com/Saraswati121)
+* [Nagesh Kumawat](https://github.com/nagesh199)
+* [Harapriya Sahu](https://github.com/Harapriyasahu)
+* [Rajendra Nali](https://github.com/rajendranali)
 
 ### Steps to deploy
 ```
   git clone https://github.com/nagesh199/Nykaa-clone // Clone This Repo
   npm install                                              // install required dependencies
   npm run start  
+  
+  
+
