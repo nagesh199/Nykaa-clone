@@ -14,7 +14,7 @@ Live app link: https://exquisite-caramel-d09625.netlify.app/
 ## Features:-
 
 1) Search Product
-2) 4) Add to cart
+2) Add to cart
 3) Sorting on Product page
 4) Seller Page
 
