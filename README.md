@@ -36,7 +36,7 @@ Live app link: https://nykaa-clone-dusky.vercel.app/
 
 ### Steps to deploy
 ```
-  git clone https://github.com/nagesh199/Nykaa-clone // Clone This Repo
+  git clone https://github.com/nagesh199/Nykaa-clone       // Clone This Repo
   npm install                                              // install required dependencies
   npm run start  
   
