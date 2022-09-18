@@ -1,7 +1,7 @@
 It is a Indian e-commerce website.It sells beauty, wellness and fashion products and you can also find best make-up brands,products of skin care and appliances also.
 # Nykaa-clone
 https://medium.com/@harapriyasahu505/project-nykaa-25f9846a4bd7
-Live app link: https://sage-biscochitos-75e444.netlify.app/
+Live app link: https://nykaa-clone-dusky.vercel.app/
 
 
 ## Snippets :-
