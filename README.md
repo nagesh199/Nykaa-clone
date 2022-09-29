@@ -33,6 +33,7 @@ Live app link: https://nykaa-clone-dusky.vercel.app/
 * [Nagesh Kumawat](https://github.com/nagesh199)
 * [Harapriya Sahu](https://github.com/Harapriyasahu)
 * [Rajendra Nali](https://github.com/rajendranali)
+* [Govind Mishra](https://github.com/gov6184)
 
 ### Steps to deploy
 ```
